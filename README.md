@@ -1,23 +1,3 @@
-Modern & Creative Names
+## Live Demo
 
-Ideal for startups, dashboards, or mobile-friendly platforms.
-
-PlotPilot
-
-TerraFlow
-
-FieldForge
-
-Landly
-
-Landify
-
-PlotSphere
-
-FieldNest
-
-GreenMapr
-
-LandSnap
-
-Farmify
+Check out the live project: [land-management-system.vercel.app](https://land-management-system.vercel.app)
